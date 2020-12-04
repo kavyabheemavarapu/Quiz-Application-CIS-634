@@ -1,0 +1,9 @@
+.customStyle1{
+  font-family: 'Comfortaa', cursive !important;
+  background-image: url('../assets/images/bg\ -\ part\ 2\ \(first\ ee\ bg\ pettu\).png');
+  background-position: center;
+  background-size: cover;
+}
+.options{
+ cursor: pointer;
+}
